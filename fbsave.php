@@ -4,8 +4,6 @@
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: Authorization, Content-Type, Accept");
 
-echo "hello world";
-
 $request_body = file_get_contents('php://input');
 $datastring = json_decode($request_body, true);
 
