@@ -15,7 +15,7 @@
     <h1 class="white center thinfont specialcomingsoonheadingtwo">Erstelle deine eigenen Workouts aus über 100 Übungen</h1>
 
     <div id="betasignupsection">
-      <h1 class="white center thinfont specialcomingsoonheading" style="padding-top: 150px;">pishare.sportboxx.eu</h1>
+      <h1 class="white center thinfont specialcomingsoonheading" style="padding-top: 150px;">picshare.sportboxx.eu</h1>
       <h1 class="white center thinfont specialcomingsoonheadingthree">Media Server</h1>
     </div>
 
