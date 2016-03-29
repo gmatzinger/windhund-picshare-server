@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>picshare by mysportboxx</title>
   <link rel="stylesheet" href="css/style.css" media="screen" title="no title" charset="utf-8">
+  <link rel="shortcut icon" href="images/favicon.png">
 </head>
 <body>
 
