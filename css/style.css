@@ -1,6 +1,8 @@
 html, body{
   width: 100%;
   min-height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
   font: 100% Helvetica Neue, sans-serif, FontAwesome;
 }
 
