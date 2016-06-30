@@ -1,0 +1,77 @@
+html, body{
+  width: 100%;
+  min-height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+  font: 100% Helvetica Neue, sans-serif, FontAwesome;
+}
+
+.signupbgcontainer{
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 110vh;
+  background: url(../images/comingsoon/comingsoon3.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.blacksignupoverlay{
+  position: absolute;
+  z-index: 101;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 110vh;
+  background: rgba(0,0,0,0.75);
+}
+
+.specialcomingsoonheading{
+  font-size: 50px;
+}
+
+.specialcomingsoonheadingtwo{
+}
+
+.specialcomingsoonheadingthree{
+  font-size: 22px;
+}
+
+.button{
+  background: #009ee0 !important;
+}
+
+.button:hover{
+  background: #076c93 !important;
+  cursor: pointer;
+}
+
+.absolutefooterhead{
+  position: fixed;
+  left: 43%;
+  bottom: 15px;
+}
+
+.absolutehead{
+  position: fixed;
+  top: 15px;
+  right: 15px;
+}
+
+.absolutehead:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.white{
+  color: #fff;
+}
+
+.center{
+  text-align: center;
+}
+
+.thinfont{
+  font-weight: 200;
+}
